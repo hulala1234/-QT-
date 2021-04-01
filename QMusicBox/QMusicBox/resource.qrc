@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/14.ico</file>
+        <file>images/bfzn_001.png</file>
+        <file>images/bfzn_002.png</file>
+        <file>images/bfzn_003.png</file>
+        <file>images/bfzn_004.png</file>
+        <file>images/bfzn_005.png</file>
+        <file>images/bfzn_006.png</file>
+        <file>images/bfzn_007.png</file>
+        <file>images/icon.png</file>
+        <file>images/start.png</file>
+        <file>images/voice_close.png</file>
+        <file>images/voice_open.png</file>
+        <file>qss/default.css</file>
+        <file>images/search.png</file>
+        <file>images/logo.png</file>
+    </qresource>
+</RCC>
